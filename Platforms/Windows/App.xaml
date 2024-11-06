@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="MauiCT_BUG1325_DrawingViewIsEnabled_Repro.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:MauiCT_BUG1325_DrawingViewIsEnabled_Repro.WinUI">
+
+</maui:MauiWinUIApplication>
