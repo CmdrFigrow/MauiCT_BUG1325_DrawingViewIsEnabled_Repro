@@ -1,0 +1,1 @@
+# MauiCT_BUG1325_DrawingViewIsEnabled_Repro
